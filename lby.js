@@ -38,7 +38,7 @@ function makeGlitchWord(word) {
 }
 
 let overlay = makeDivWithClass('realmadoverlay');
-let w = ['look', 'behind', 'you'];
+let w = ['Aarons / Erins', 'UNITE'];
 w.forEach(function(word) {
     overlay.appendChild(makeGlitchWord(word));
 });
