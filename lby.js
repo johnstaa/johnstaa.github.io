@@ -1,4 +1,6 @@
-// Inject CSS and font into the HEAD portion
+// This file is from my professor: Mr. Sprague
+// I just copied and pasted it for an XSS vulnerability
+//Inject CSS and font into the HEAD portion
 /*
 <HEAD>
 <link rel="stylesheet" href="https://realmadsci.github.io/j/glitch.css">
